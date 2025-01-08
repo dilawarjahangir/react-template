@@ -1,0 +1,9 @@
+.HTask-Responsive-Container{
+  width: calc(100vw - 360px)!important;
+}
+
+@media screen and (max-width: 1000px) {
+  .HTask-Responsive-Container{
+    width: calc(100vw - 120px)!important;
+  }
+}
